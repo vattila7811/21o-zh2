@@ -75,5 +75,12 @@
         "price": 45,
         "area": 83,
         "rooms": 4
+    },
+    {
+        "city": "Győr",
+        "address": "Fiaskó utca 3.",
+        "price": 34.3,
+        "area": 66.0,
+        "rooms": 3
     }
 ]
